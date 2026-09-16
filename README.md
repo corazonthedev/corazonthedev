@@ -1,128 +1,104 @@
-<p align="center">
-  <!-- Terminal Animation: Sadece geliştirici odaklı temiz bir terminal animasyonu -->
-  <a href="https://arif-kamil-erdem.a-k-e.workers.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=corazon%40dev%3A~%24+building+agents;corazon%40dev%3A~%24+context+engineering;corazon%40dev%3A~%24+mcp+protocol;corazon%40dev%3A~%24+ai+architecture" alt="Terminal Animation" />
-  </a>
-</p>
-
----
+<h1 align="center">Arif Kamil Erdem</h1>
 
 <p align="center">
-  Using AI agents as a tool and building.
+  <b>AI-agent workflows, automation, and end-to-end business software</b><br/>
+  from the screen your team uses to the data underneath.
 </p>
-
----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-FF4444?style=for-the-badge&logo=map&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Architecture-6C63FF?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
-  <a href="https://arif-kamil-erdem.a-k-e.workers.dev">
-    <img src="https://img.shields.io/badge/Portfolio-arif--kamil--erdem.a--k--e.workers.dev-2D1B69?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://arif-kamil-erdem.a-k-e.workers.dev"><img src="https://img.shields.io/badge/Portfolio-arif--kamil--erdem.a--k--e.workers.dev-2D1B69?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://arif-kamil-erdem.a-k-e.workers.dev"><img src="https://img.shields.io/badge/Website-arif--kamil--erdem-0A66C2?style=for-the-badge&logo=website&logoColor=white" alt="Website" /></a>
+  <a href="mailto:akamil823@gmail.com"><img src="https://img.shields.io/badge/Email-akamil823%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye%20%C2%B7%20Remote-FF4444?style=for-the-badge" alt="Türkiye, Remote" />
+  <img src="https://img.shields.io/badge/Open%20to-new%20projects-22c55e?style=for-the-badge" alt="Open to new projects" />
 </p>
 
 ---
 
-### ⚡ Current Focus
+### About
 
-<p>
-  <a href="https://sektorelweb.com"><code style="background:#2d1b69;color:#d2a8ff;padding:2px 8px;border-radius:4px;font-weight:bold">sektorelweb.com</code></a>
-  <code style="background:#1a3a5c;color:#79c0ff;padding:2px 8px;border-radius:4px">Agentic Workflow</code>
-  <code style="background:#1a3a5c;color:#79c0ff;padding:2px 8px;border-radius:4px">MCP protocol</code>
-  <code style="background:#2d1b69;color:#d2a8ff;padding:2px 8px;border-radius:4px">context engineering</code>
-  <code style="background:#3d2200;color:#ffa657;padding:2px 8px;border-radius:4px">multi-agent orchestration</code>
-  <code style="background:#003d1a;color:#7ee787;padding:2px 8px;border-radius:4px">agentic patterns</code>
-</p>
+I design and build the systems a business runs on — including AI-agent supported automation — from the interface down to the business logic, data, and integrations.
+
+- **Currently:** Co-founder at [Sektörel Web](https://sektorelweb.com) — white-label web delivery for agencies and referral partners.
+- **Practical AI agents:** bounded agents that read context, pick the next defined step, and leave a reviewable trail.
+- **Business systems:** POS, ERP, inventory, receivables, appointments, customer tracking.
+- **Automation & data:** file processing, reporting, extracting information from images.
 
 ---
 
-### 🛠️ Tech Stack
+### Selected Work
+
+Full write-ups, screens, and evidence for every project are on the [portfolio](https://arif-kamil-erdem.a-k-e.workers.dev/projects/).
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Margin Trace](https://arif-kamil-erdem.a-k-e.workers.dev/projects/kar-dedektoru/) | Merges marketplace orders, returns, payments, and costs to show where margin is lost | TypeScript · Next.js · Prisma · Docker |
+| [Planline](https://arif-kamil-erdem.a-k-e.workers.dev/projects/space-planner/) | Draw a room in 2D, walk it in 3D, catch layout conflicts | TypeScript · React · Three.js · Zustand |
+| [Sightline](https://arif-kamil-erdem.a-k-e.workers.dev/projects/live-vision-panel/) | Real-time object-detection panel with live stream, event log, exports | Python · FastAPI · YOLOv8 · React |
+| [Source Lens](https://arif-kamil-erdem.a-k-e.workers.dev/projects/belge-zeka/) | Turkish document search that answers with page and character-range citations | Python · FastAPI · React · SQLite |
+| [Tenant Flow](https://arif-kamil-erdem.a-k-e.workers.dev/projects/white-label-pos/) | Multi-tenant POS, inventory, receivables, and brand system | Next.js · TypeScript · Prisma · SQLite |
+| [Field Ledger](https://arif-kamil-erdem.a-k-e.workers.dev/projects/saha-envanter/) | Offline-first inventory counter that reconciles safely when back online | React · TypeScript · Dexie · Express |
+| [Query Canvas](https://arif-kamil-erdem.a-k-e.workers.dev/projects/mini-sql-motoru/) | Browser SQL engine that visualizes parsing, planning, and execution | TypeScript · React · Web Worker |
+| [Phone Mic Bridge](https://arif-kamil-erdem.a-k-e.workers.dev/projects/phone-as-mic-linux/) | Turns an Android phone into a wireless microphone for Linux | Python · PyQt6 · PipeWire |
+
+#### Public repositories
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [ship-recognition-classifier-yolov8](https://github.com/corazonthedev/ship-recognition-classifier-yolov8) | Vessel Watch — finds and marks ships in photos, video, and live camera feed | Python · YOLOv8 · Roboflow |
+| [WiseLib](https://github.com/corazonthedev/WiseLib) | Library Loop — members, books, lending, and returns in one desktop app | C# · WinForms · SQLite |
+| [Google-form-parser](https://github.com/corazonthedev/Google-form-parser) | Form Extract — converts a Google Form into structured JSON | Python · CLI · Tkinter |
+| [arduino-traffic-light](https://github.com/corazonthedev/arduino-traffic-light) | Traffic Loop — non-blocking pedestrian traffic light controller | C++ · Arduino · Make |
+
+---
+
+### Open Source Contributions
+
+| Upstream | Pull request | Status |
+|---|---|---|
+| [dgenio/contextweaver](https://github.com/dgenio/contextweaver) | [#714](https://github.com/dgenio/contextweaver/pull/714) Makefile uses `$(PYTHON)` for python3-only systems | ✅ Merged |
+| [dgenio/contextweaver](https://github.com/dgenio/contextweaver) | [#715](https://github.com/dgenio/contextweaver/pull/715) Refresh label catalog to match live taxonomy | ✅ Merged |
+| [agentrq/agentrq](https://github.com/agentrq/agentrq) | [#206](https://github.com/agentrq/agentrq/pull/206) Remove duplicate error logs in `getTask` handler | ✅ Merged |
+| [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | [#693](https://github.com/Farama-Foundation/HighwayEnv/pull/693) Fix Sphinx build warnings | 🟡 Open |
+| [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) | [#50](https://github.com/federicodeponte/opendraft/pull/50) Cross-model evaluation harness | 🟡 Open |
+| [industrial-optimization-group/DESDEO](https://github.com/industrial-optimization-group/DESDEO) | [#542](https://github.com/industrial-optimization-group/DESDEO/pull/542) Automate OpenAPI spec and ER diagram generation | 🟡 Open |
+| [mevichitra/codeguard](https://github.com/mevichitra/codeguard) | [#26](https://github.com/mevichitra/codeguard/pull/26) Populate benchmark corpus with vulnerable/safe samples | 🟡 Open |
+| [wecncodecrew/Telemed-AI](https://github.com/wecncodecrew/Telemed-AI) | [#18](https://github.com/wecncodecrew/Telemed-AI/pull/18), [#12](https://github.com/wecncodecrew/Telemed-AI/pull/12) Empty-result fallback, docs typo | 🟡 Open |
+| [langswap-app/langswap](https://github.com/langswap-app/langswap) | [#10](https://github.com/langswap-app/langswap/pull/10), [#11](https://github.com/langswap-app/langswap/pull/11), [#13](https://github.com/langswap-app/langswap/pull/13) Translation prompt, `.vtt` output, test fixtures | 🟡 Open |
+
+---
+
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="C++" />
   <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot&logoColor=fff" alt="GDScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js" />
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=fff" alt="Kubuntu" />
-</p>
-
-### 🤖 AI Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hermes-FFB300?style=for-the-badge&logo=openai&logoColor=000" alt="Hermes" />
-  <img src="https://img.shields.io/badge/Claude_Code-9775FA?style=for-the-badge&logo=anthropic&logoColor=fff" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/free--claude--code-9775FA?style=for-the-badge&logo=anthropic&logoColor=fff" alt="Free Claude Code" />
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=windowsterminal&logoColor=fff" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/open--design-FF6B6B?style=for-the-badge&logo=figma&logoColor=fff" alt="Open Design" />
   <br/>
-  <img src="https://img.shields.io/badge/MCP-6C47FF?style=for-the-badge&logo=github&logoColor=fff" alt="MCP" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=fff" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=fff" alt="Godot" />
 </p>
 
----
-
-### 🍴 AI Forks — Agentic Implementations Worth Studying
-
-<table>
-  <tr><th width="220">Repo</th><th>What it does</th></tr>
-  <tr><td><a href="https://github.com/corazonthedev/contextweaver"><b>contextweaver</b></a></td><td>MCP context gateway — budget-aware context compilation & firewall for tool-heavy agents. 1150+ tests, mypy strict, 42–84% token reduction.</td></tr>
-  <tr><td><a href="https://github.com/corazonthedev/agentrq"><b>agentrq</b></a></td><td>Human-in-the-loop conversational task manager for agents</td></tr>
-  <tr><td><a href="https://github.com/corazonthedev/Telemed-AI"><b>Telemed-AI</b></a></td><td>GraphRAG medical chatbot — symptom → hypothesis retrieval</td></tr>
-  <tr><td><a href="https://github.com/corazonthedev/langswap"><b>langswap</b></a></td><td>Self-hosted AI video dubbing — ASR → translate → voice clone</td></tr>
-  <tr><td><a href="https://github.com/corazonthedev/opendraft"><b>opendraft</b></a></td><td>Multi-agent thesis writer — long-form document generation from a single prompt</td></tr>
-  <tr><td><a href="https://github.com/corazonthedev/codeguard"><b>codeguard</b></a></td><td>Security static analysis for AI-generated Python code</td></tr>
-  <tr><td><a href="https://github.com/corazonthedev/HighwayEnv"><b>HighwayEnv</b></a></td><td>Autonomous driving decision-making environment</td></tr>
-</table>
+**AI tooling:** Claude Code · Codex · OpenCode · MCP
 
 ---
-
-### 📊 Metrics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corazonthedev&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=9775FA&text_color=c9d1d9&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=corazonthedev&theme=transparent&hide_border=true&background=0d1117&ring=6C63FF&fire=9775FA&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=8b949e&dates=484f58" height="175" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=corazonthedev&theme=transparent&hide_border=true&background=0d1117&ring=6C63FF&fire=9775FA&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=8b949e&dates=484f58" height="165" alt="GitHub Streak" />
 </p>
-
-<pre style="background:#0d1117;color:#8b949e;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;font-size:13px;line-height:1.6;overflow-x:auto;">
-<span style="color:#c9d1d9;font-weight:bold">Language Breakdown</span> <span style="color:#484f58">(approximate):</span>
-<span style="color:#3572A5;font-weight:bold">Python</span>      <span style="color:#3572A5">████████████████████████████████████████████</span><span style="color:#30363d">░░░░░░░░░░</span>  <span style="color:#79c0ff;font-weight:bold">~48%</span>
-<span style="color:#478CBF;font-weight:bold">GDScript</span>    <span style="color:#478CBF">████████████████████</span><span style="color:#30363d">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  <span style="color:#79c0ff;font-weight:bold">~20%</span>
-<span style="color:#3178C6;font-weight:bold">TypeScript</span>  <span style="color:#3178C6">█████████████</span><span style="color:#30363d">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  <span style="color:#79c0ff;font-weight:bold">~13%</span>
-<span style="color:#178600;font-weight:bold">C#</span>          <span style="color:#178600">███████</span><span style="color:#30363d">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  <span style="color:#79c0ff;font-weight:bold">~7%</span>
-<span style="color:#F34B7D;font-weight:bold">C++</span>         <span style="color:#F34B7D">███████</span><span style="color:#30363d">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  <span style="color:#79c0ff;font-weight:bold">~7%</span>
-<span style="color:#E46651;font-weight:bold">JavaScript</span>  <span style="color:#E46651">██████</span><span style="color:#30363d">░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░</span>  <span style="color:#79c0ff;font-weight:bold">~5%</span>
-
-<span style="color:#c9d1d9;font-weight:bold">22 repos</span> · <span style="color:#c9d1d9;font-weight:bold">14 source</span> · <span style="color:#c9d1d9;font-weight:bold">8 forks</span> · <span style="color:#7ee787;font-weight:bold">Daily commits</span>
-</pre>
-
----
-
-### 🤝 Open To
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-AI%20Agent%20%2F%20Full--Stack-22c55e?style=for-the-badge&logo=briefcase&logoColor=fff" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collab-Agentic%20%2F%20MCP%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=fff" alt="Open to Collab" />
-  <img src="https://img.shields.io/badge/Freelance-Available-9775FA?style=for-the-badge&logo=freelancer&logoColor=fff" alt="Freelance" />
-</p>
-
-> Interested in working together? Reach out via [GitHub Issues](https://github.com/corazonthedev/corazonthedev/issues) or through the portfolio.
-
----
 
 <p align="center">
   <a href="https://codewars.com/users/corazonthedev"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=fff" alt="Codewars" /></a>
   <a href="https://leetcode.com/u/corazonthedev"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=000" alt="LeetCode" /></a>
-  <a href="https://arif-kamil-erdem.a-k-e.workers.dev"><img src="https://img.shields.io/badge/Portfolio-arif--kamil--erdem.a--k--e.workers.dev-6C63FF?style=flat-square&logo=cloudflare&logoColor=fff" alt="Portfolio" /></a>
 </p>
