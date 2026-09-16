@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Terminal Animation: Sadece geliştirici odaklı temiz bir terminal animasyonu -->
-  <a href="https://corazonthedev.vercel.app">
+  <a href="https://arif-kamil-erdem.a-k-e.workers.dev">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=corazon%40dev%3A~%24+building+agents;corazon%40dev%3A~%24+context+engineering;corazon%40dev%3A~%24+mcp+protocol;corazon%40dev%3A~%24+ai+architecture" alt="Terminal Animation" />
   </a>
 </p>
@@ -16,8 +16,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-FF4444?style=for-the-badge&logo=map&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agent%20Architecture-6C63FF?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
-  <a href="https://corazonthedev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-corazonthedev.vercel.app-2D1B69?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://arif-kamil-erdem.a-k-e.workers.dev">
+    <img src="https://img.shields.io/badge/Portfolio-arif--kamil--erdem.a--k--e.workers.dev-2D1B69?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -124,5 +124,5 @@
 <p align="center">
   <a href="https://codewars.com/users/corazonthedev"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=fff" alt="Codewars" /></a>
   <a href="https://leetcode.com/u/corazonthedev"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=000" alt="LeetCode" /></a>
-  <a href="https://corazonthedev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-corazonthedev.vercel.app-6C63FF?style=flat-square&logo=vercel&logoColor=fff" alt="Portfolio" /></a>
+  <a href="https://arif-kamil-erdem.a-k-e.workers.dev"><img src="https://img.shields.io/badge/Portfolio-arif--kamil--erdem.a--k--e.workers.dev-6C63FF?style=flat-square&logo=cloudflare&logoColor=fff" alt="Portfolio" /></a>
 </p>
