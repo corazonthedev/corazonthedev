@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://arif-kamil-erdem.a-k-e.workers.dev"><img src="https://img.shields.io/badge/Portfolio-arif--kamil--erdem.a--k--e.workers.dev-2D1B69?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://arif-kamil-erdem.a-k-e.workers.dev"><img src="https://img.shields.io/badge/Website-arif--kamil--erdem-0A66C2?style=for-the-badge&logo=website&logoColor=white" alt="Website" /></a>
   <a href="mailto:akamil823@gmail.com"><img src="https://img.shields.io/badge/Email-akamil823%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br/>
   <img src="https://img.shields.io/badge/Location-T%C3%BCrkiye%20%C2%B7%20Remote-FF4444?style=for-the-badge" alt="Türkiye, Remote" />
